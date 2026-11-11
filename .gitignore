@@ -1,0 +1,7 @@
+# Planilhas de referência podem conter dados reais de pacientes: nunca versionar
+docs/references/*
+!docs/references/.gitkeep
+*.xlsx
+*.xls
+*.csv
+*.tsv
